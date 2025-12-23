@@ -119,3 +119,23 @@ King Fahd University of Petroleum & Minerals (KFUPM)
 Email: Zahid.Alabadllah@hotmail.com  
 LinkedIn: https://www.linkedin.com/in/zahid-alabadllah  
 GitHub: https://github.com/Zahid-Alabadllah
+
+---
+## Repository Structure
+```text
+.
+├── notebooks/
+│   ├── MATH_Linear Reg.ipynb
+│   ├── MATH_xgboost.ipynb
+│   └── MATH_LSTM.ipynb
+│
+├── data/
+│   └── telecommunication_traffic_data.csv
+│
+├── forecasts/
+│   ├── forecast_100_periods_Linear_Reg.csv
+│   ├── forecast_100_periods_xgboost.csv
+│   └── forecast_100_periods_LSTM.csv
+│
+└── README.md
+
